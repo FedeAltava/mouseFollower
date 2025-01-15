@@ -16,11 +16,4 @@ El proyecto incluye los siguientes componentes y archivos clave:
 - **`App`**: Contenedor principal que renderiza el componente `FollowMouse`.
 - **`App.css`**: Archivo de estilos para personalizar la apariencia de la aplicación.
 
-## Cómo ejecutar el proyecto
 
-Sigue estos pasos para configurar y ejecutar el proyecto localmente:
-
-1. Clona este repositorio:
-
-   ```bash
-   git clone https://github.com/tu-usuario/mouse-follower.git
